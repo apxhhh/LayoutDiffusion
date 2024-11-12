@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dpm_solver
+Version: 0.0.0
+License-File: LICENSE
+Requires-Dist: blobfile>=1.0.5
+Requires-Dist: torch
+Requires-Dist: tqdm
